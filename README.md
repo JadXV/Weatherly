@@ -8,8 +8,7 @@ A sleek, modern weather app with real-time forecasts and beautiful visual effect
 
 <br>
 
-<video src="assets/showcase.mp4" width="100%" autoplay loop muted></video>
-Showcase not playing? Click [here](./assets/showcase.mp4)
+<video src="https://github.com/user-attachments/assets/c4d2ff0d-6256-42fb-99fd-892d78f73829" width="100%" autoplay loop muted></video>
 
 </div>
 
